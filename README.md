@@ -1,0 +1,1 @@
+生成实体类和Mybatis SQL语句的XML文件
